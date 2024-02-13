@@ -1,0 +1,16 @@
+{
+  "dept 1": {
+    "_dept_name": "dept 1",
+    "_employees": [
+      { "_name": "abey", "_id": 1, "_department": "dept 1" },
+      { "_name": "alan", "_id": 2, "_department": "dept 1" }
+    ]
+  },
+  "dept 2": {
+    "_dept_name": "dept 2",
+    "_employees": [
+      { "_name": "albin", "_id": 3, "_department": "dept 2" },
+      { "_name": "akhil", "_id": 4, "_department": "dept 2" }
+    ]
+  }
+}
